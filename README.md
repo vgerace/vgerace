@@ -1,4 +1,4 @@
-### Hi There, I'm Vitor Gerace 👋
+### Hi There, I'm Vitor Gerace 👋🏽
 
 <!--
 **vgerace/vgerace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
