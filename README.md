@@ -5,7 +5,7 @@
 -->
 
 - 💻 I’m currently working as a Development Analyst on [Accesstage](https://accesstage.com.br) 
-- 📘 I’m currently learning Java
+- 📘 I’m currently learning Java and Test Automation
 - 👊🏽 I’m looking forward to collaborating on Finance, Social and Educational projects
 - 😄 Pronouns: Him/His
 
