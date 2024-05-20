@@ -4,8 +4,8 @@
 **vgerace/vgerace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💻 I’m currently working as a Development Analyst on [Accesstage](https://accesstage.com.br) 
-- 📘 I’m currently learning Java and Test Automation
+- 💻 I’m currently working as a Development Backend Analyst on [Accesstage](https://accesstage.com.br) 
+- 📘 I’m currently learning Java and Spring
 - 👊🏽 I’m looking forward to collaborating on Finance, Social and Educational projects
 - 😄 Pronouns: Him/His
 
